@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Coding Very New To This 
 - 🌱 I’m currently learning C# through Unity no prior knowledge on subject
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me traynorth83@icloud.com or dnd_trip on discord
 
 <!---
 Triiipsy/Triiipsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
